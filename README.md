@@ -35,7 +35,7 @@ This Power BI project visualizes insights from a dataset on data professionals a
 |------|-------------|
 | `Data_Survey_Breakdown.pbix` | Power BI dashboard file |
 | `README.md` | Project overview and documentation |
-| `survey_dataset.csv`  | Dataset used, if publicly shareable |
+| `Power BI-Final Project.xlsx`  | Dataset used, if publicly shareable |
 | `screenshot.png`  | Preview of the dashboard |
 
 ---
